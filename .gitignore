@@ -1,0 +1,15 @@
+# Archivos y carpetas de Python
+__pycache__/
+*.pyc
+
+# Base de datos de desarrollo
+/db.sqlite3
+
+# Archivos de entorno
+.env
+
+# Archivos de logs
+*.log
+
+# Migraciones compiladas
+**/migrations/*.pyc 
