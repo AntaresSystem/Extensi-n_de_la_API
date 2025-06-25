@@ -1,6 +1,8 @@
 from django.urls import path
-from .views import TareaListCreateView
+from rest_framework.routers import DefaultRouter
+from .views import TareaViewSet
 
-urlpatterns = [
-    path('tareas/', TareaListCreateView.as_view(), name='tarea-list-create'),
-] 
+router = DefaultRouter()
+router.register(r'tareas', TareaViewSet, basename='tarea')
+
+urlpatterns = router.urls 
