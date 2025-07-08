@@ -227,3 +227,19 @@
   "detail": "Authentication credentials were not provided."
 }
 ``` 
+## Evidencia de la documentación automática con Swagger
+
+A continuación se muestran capturas de pantalla de la API documentada y funcionando en Swagger UI:
+
+![Swagger UI 1](docs/swagger_ui_1.png)
+![Swagger UI 2](docs/swagger_ui_2.png)
+![Swagger UI 3](docs/swagger_ui_3.png)
+![Swagger UI 4](docs/swagger_ui_4.png)
+![Swagger UI 5](docs/swagger_ui_5.png)
+![Swagger UI 6](docs/swagger_ui_6.png)
+![Swagger UI 7](docs/swagger_ui_7.png)
+![Swagger UI 8](docs/swagger_ui_8.png)
+![Swagger UI 9](docs/swagger_ui_9.png)
+![Swagger UI 10](docs/swagger_ui_10.png)
+![Swagger UI 11](docs/swagger_ui_11.png)
+![Swagger UI 12](docs/swagger_ui_12.png)
